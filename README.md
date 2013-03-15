@@ -1,6 +1,6 @@
 # doorkeeper support for developers
 
-The official un-official [Doorkeeper](http://www.doorkeeeperhq.com/) feature requests / bug reports repository. It was born out of the following twitter discussion.
+The official un-official [Doorkeeper](http://www.doorkeeeperhq.com/) feature requests / bug reports repository. It was born out of the following twitter discussion. **It is experimental, and may be discontinued.**
 
 <blockquote class="twitter-tweet" data-conversation="none"><p>@<a href="https://twitter.com/pwim">pwim</a> Doorkeeperのチケット管理システムがほしい。</p>&mdash; 角征典 KADO Masanori (@kdmsnr) <a href="https://twitter.com/kdmsnr/status/312410197849157632">March 15, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
